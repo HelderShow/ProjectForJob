@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\CursovoiProject2.0\CursovoiProject2.0\x64\Debug\CursovoiProject2.0.vcxproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CursovoiProject2.0\CursovoiProject2.0\x64\Debug\CursovoiProject2.0.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\CursovoiProject2.0\CursovoiProject2.0\x64\Debug\CursovoiProject20.FinalForm.resources
+C:\Users\Admin\source\repos\CursovoiProject2.0\CursovoiProject2.0\x64\Debug\CursovoiProject20.FirstForm.resources
+C:\Users\Admin\source\repos\CursovoiProject2.0\CursovoiProject2.0\x64\Debug\CursovoiProject20.MainTask.resources
+C:\Users\Admin\source\repos\CursovoiProject2.0\CursovoiProject2.0\x64\Debug\CursovoiProject20.Registr.resources
+C:\Users\Admin\source\repos\CursovoiProject2.0\CursovoiProject2.0\x64\Debug\CursovoiProject20.FirstForm.en-US.resources
+C:\Users\Admin\source\repos\CursovoiProject2.0\CursovoiProject2.0\x64\Debug\CursovoiProject2.0.vcxproj.GenerateResource.cache
